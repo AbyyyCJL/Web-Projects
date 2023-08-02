@@ -9,4 +9,5 @@ Simple Web projects for beginners.
 | 4- Jokes Providing  | [Live Demo](https://rawcdn.githack.com/AbyyyCJL/Web-Projects/af3e1efb4d795b460bf9f227d162b9f8b6f6ca2e/4-%20Jokes%20Providing/index.html)  |
 | 5- Sound Board  | [Live Demo](https://rawcdn.githack.com/AbyyyCJL/Web-Projects/5696be7b5569138163cdc780f15a2876952ec690/5-%20Sound%20Board/index.html)  |
 | 6- Theme Clock  | [Live Demo](https://rawcdn.githack.com/AbyyyCJL/Web-Projects/cca1da65ab920128db3457f592df7f0bfff0b20b/6-%20Theme%20Clock/index.html)  |
+| 7- Movies App   | [Live Demo](https://rawcdn.githack.com/AbyyyCJL/Web-Projects/9d93d606743a093ccd2560cf1afe22efbb91e6de/7-%20Movie%20App/index.html)  |
 
