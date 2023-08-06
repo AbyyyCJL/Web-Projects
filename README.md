@@ -12,3 +12,4 @@ Simple Web projects for beginners.
 | 7- Movies App   | [Live Demo](https://rawcdn.githack.com/AbyyyCJL/Web-Projects/9d93d606743a093ccd2560cf1afe22efbb91e6de/7-%20Movie%20App/index.html)  |
 | 8- Split Landing Page | [Live Demo](https://rawcdn.githack.com/AbyyyCJL/Web-Projects/f1005a4fd6fa154fe508cdbc3f95f518635302f4/8-%20Split%20Landing%20Page/index.html)|
 | 9- KeyStroke Reader   | [Live Demo](https://rawcdn.githack.com/AbyyyCJL/Web-Projects/272f90f38222f38878d5e48756f319d3be0d7505/9-%20Keystroke%20Reader/index.html) | 
+| 10- Hover Animation | [Live Demo](https://rawcdn.githack.com/AbyyyCJL/Web-Projects/94d3693e1781f52ba59df24c2e4b212d937ef8f8/10-%20Hover%20Animation/index.html) |
