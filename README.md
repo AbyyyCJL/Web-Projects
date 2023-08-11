@@ -17,3 +17,4 @@ Simple Web projects for beginners.
 | 12- Feedback UI | [Live Demo](https://rawcdn.githack.com/AbyyyCJL/Web-Projects/c4a6ba5eb3df3a35d761d3e9bc46303df79f09b9/12-%20Feedback%20UI/index.html) |
 | 13- Animation Countdown | [Live Demo](https://rawcdn.githack.com/AbyyyCJL/Web-Projects/9740b96198a2e560250fa8595d878df11e249b64/13-%20Animated%20Countdown/index.html) |
 | 14- Background Sliding Animation| [Live Demo](https://rawcdn.githack.com/AbyyyCJL/Web-Projects/d1e8601d9380ccc5011ecd07654636c1a280bb0b/14-%20Background%20Sliding%20animation/index.html) |
+| 15- Fun Toggle | [Live Demo](https://rawcdn.githack.com/AbyyyCJL/Web-Projects/68ade85535b291d97e4a603816ae4f7b00e8ab50/15-%20Fun%20Toggle/index.html) |
